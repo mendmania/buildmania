@@ -1,6 +1,8 @@
 <script setup>
 useHead({
-  htmlAttrs: "en",
+  htmlAttrs: {
+    lang: "en",
+  },
   title: "Buildmania",
   meta: [{ name: "description", content: "My amazing site." }],
 });

@@ -1,2 +1,1 @@
-UserAgent: "*",
-Disallow: "",
+user-agent: *
