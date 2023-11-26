@@ -1,5 +1,4 @@
 <script setup>
-
 </script>
 
 <template>
@@ -13,17 +12,18 @@
         target="_blank"
       >
         <svg
-          xmlns="http://www.w3.org/2000/svg"
           fill="none"
           stroke="currentColor"
           stroke-linecap="round"
           stroke-linejoin="round"
           stroke-width="2"
-          class="w-10 h-10 text-white p-2 bg-indigo-500 rounded-full"
+          class="w-6 h-6"
           viewBox="0 0 24 24"
+          data-v-inspector="components/section/SquareInfo.vue:22:13"
         >
           <path
-            d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"
+            d="M22 12h-4l-3 9L9 3l-3 9H2"
+            data-v-inspector="components/section/SquareInfo.vue:31:15"
           ></path>
         </svg>
         <span class="ml-3 text-xl">Buildmania</span>
